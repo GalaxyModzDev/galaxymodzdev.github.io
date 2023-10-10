@@ -1,3 +1,9 @@
-h2 h3 h4 {
-  color: blue;
+body {
+  background-color: black;
+}
+
+h2,
+h3,
+h4 {
+  color: white;
 }
