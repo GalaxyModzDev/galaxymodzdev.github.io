@@ -2,10 +2,8 @@ body {
   background-color: #212121;
 }
 
-h1 {
-  color: #bbbbbb;
-}
-
+p,
+h1,
 h2,
 h3,
 h4 {
